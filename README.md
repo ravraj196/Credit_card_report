@@ -36,17 +36,13 @@ SQL: For data extraction and transformation.
 
 Excel: For initial data preprocessing.
 
-Python (optional): For advanced data analysis and automation.
-
 📂 Dataset
 
 The dataset includes:
 
-Transaction Data: Date, time, amount, merchant category, and payment method.
+Transaction Data: Date, time, amount, credit card details, and customer details.
 
 Customer Demographics: Age, income, location, and credit card type.
-
-Fraud Indicators: Flags for potential fraudulent transactions.
 
 📌 How to Use
 
@@ -58,17 +54,10 @@ Apply filters and slicers to analyze specific segments.
 
 Monitor trends and insights to make data-driven decisions.
 
-🚀 Future Enhancements
-
-Integration with real-time transaction data.
-
-Implementing AI-powered fraud detection.
-
-Enhancing customer behavior analytics with machine learning models.
 
 📢 Conclusion
 
-This Power BI dashboard provides a holistic view of credit card operations, allowing stakeholders to track performance, detect trends, and optimize financial decision-making.
+This dashboard helps banks and financial institutions optimize their offerings, understand customer behavior, and enhance decision-making with data-driven strategies.
 
-🔗 Connect with me on LinkedIn | 📧 Contact: [Your Email]
+🔗 Connect with me on LinkedIn | 📧 Contact: ravrajkumar196@gmail.com
 
